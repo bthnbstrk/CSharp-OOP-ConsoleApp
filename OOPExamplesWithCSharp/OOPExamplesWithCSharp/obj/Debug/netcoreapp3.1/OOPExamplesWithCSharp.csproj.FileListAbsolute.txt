@@ -1,0 +1,13 @@
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.exe
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.deps.json
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.runtimeconfig.json
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.runtimeconfig.dev.json
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.dll
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\bin\Debug\netcoreapp3.1\OOPExamplesWithCSharp.pdb
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.csprojAssemblyReference.cache
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.AssemblyInfoInputs.cache
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.AssemblyInfo.cs
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.dll
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.pdb
+C:\Users\baby_\source\repos\OOPExamplesWithCSharp\OOPExamplesWithCSharp\obj\Debug\netcoreapp3.1\OOPExamplesWithCSharp.genruntimeconfig.cache
